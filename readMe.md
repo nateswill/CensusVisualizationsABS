@@ -24,24 +24,24 @@
     
  
  **ETL**  
-We conducted the extract, transformation, and load process for these datasets using pandas in Jupyter notebooks. You can find the detailed, step-by-step ETL report within this repository as a PDF document titled 'ETL-report-group6'. By following this document, you should be able to replicate our ETL process. 
+We conducted the extract, transformation, and load process for these datasets using pandas in Jupyter notebooks. You can find the detailed, step-by-step ETL report within this repository as a PDF document [here](ETL-report-group6.pdf). By following this document, you should be able to replicate our ETL process. 
 
-You can also find the Jupyter notebook step by step of the ETL process in the Jupyter notebook file named 'ETL-section-4-visualizations'. This file also contains the visualizations to answer our forth question as well.
+You can also find the Jupyter notebook step by step of the ETL process in the Jupyter notebook file [here](ETL-section-4-visualizations.ipynb). This file also contains the visualizations to answer our forth question as well.
 
  **Visualizations**  
-We each created 4-5 visualizations to answer the questions addressed above. These visualizations can be found in slideshow format in the slideshow pdf within the repository.   
+We each created 4-5 visualizations to answer the questions addressed above. These visualizations can be found in slideshow format in the slideshow pdf [here](visualizations-slideshow.pdf).   
         
 The visualizations and their code can be found in the following listed Jupyter Notebooks:  
 
-1. section-1-visualizations displays visualizations and their code to answer our first question on how worker pay and employment type varies by owner race and gender  
-2. section-2-visualizations displays visualizations and their code to answer our second question on how veteran business ownership varies by gender, race, and service-disability status  
-3. section-3-visualizations displays visualizations and their code to answer our third question on how technology is used across businesses  
-4. section-4-visualizations displays visualizations and theircode to answer our fourth question on how owner education attainment relates to annual pay in different industries  
+1. [section-1-visualizations](section1visualizations.ipynb) displays visualizations and their code to answer our first question on how worker pay and employment type varies by owner race and gender  
+2. [section-2-visualizations](section-2-visualizations-code.ipynb) displays visualizations and their code to answer our second question on how veteran business ownership varies by gender, race, and service-disability status  
+3. [section-3-visualizations](section-3-visualizations-code.ipynb) displays visualizations and their code to answer our third question on how technology is used across businesses  
+4. [section-4-visualizations](ETL-section-4-visualizations.ipynb) displays visualizations and theircode to answer our fourth question on how owner education attainment relates to annual pay in different industries  
 
-Finally, visualizations are also displayed and discussed in our final report pdf document, also found within this repository.
+Finally, visualizations are also displayed and discussed in our final report pdf document, [here](Group-6-Report.pdf).
 
 **Report**  
-In the report, we display and discuss all visualizations and how they answer (or sometimes fail to answer) our exploratory questions. This report can be found in the report pdf document. The report contains an introduction, display and discussion of visualizations broken down into four sections (for the four main questions), conclusion, and a works cited page.  
+In the [report](Group-6-Report.pdf), we display and discuss all visualizations and how they answer (or sometimes fail to answer) our exploratory questions. This report can be found in the report pdf document. The report contains an introduction, display and discussion of visualizations broken down into four sections (for the four main questions), conclusion, and a works cited page.  
 
 ***Thank you for stopping by our repository!!***
 
